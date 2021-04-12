@@ -10,4 +10,4 @@ public boolean lastDigit(int a, int b) {
   return (a % 10 == b % 10) ? true : false;
 }
 
-Approach 2 : Type cast int to String and using substring get last char and then using compare() check if both the values are equal.
+//Approach 2 : Type cast int to String and using substring get last char and then using compare() check if both the values are equal.
