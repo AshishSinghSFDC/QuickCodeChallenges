@@ -1,6 +1,7 @@
 /** Challenge => Given two non-negative int values, return true if they have the same last digit, such as with 27 and 57.  
  *  Method Name => lastDigit(int a, int b)
- */  Return type => Boolean
+ *  Return type => Boolean
+ */
 
 //Solution
 
