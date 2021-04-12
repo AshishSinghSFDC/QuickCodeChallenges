@@ -1,4 +1,4 @@
 # QuickCodeChallenges
-# Best Practise
+# Best Practice
 # Efficient Code
 # Multiple Approach
